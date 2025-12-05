@@ -14,7 +14,7 @@ This project implements a statistics calculator that computes **mean**, **median
 - **Multiple Test Cases**: Includes various examples demonstrating edge cases
 - **Clean Output**: Formatted, readable statistics display
 
-## 🛠️ Requirements
+## Requirements
 
 ### C Implementation
 - **Compiler**: GCC or any C99-compatible compiler
@@ -28,7 +28,7 @@ This project implements a statistics calculator that computes **mean**, **median
 - **Python Version**: Python 3.6+
 - **Dependencies**: Standard library only (uses `collections.Counter`)
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### C (Procedural Paradigm)
 
@@ -179,41 +179,41 @@ Mode: 1, 2, 3, 4, 5
 
 ### Procedural (C)
 **Strengths:**
-- ✅ Direct control over memory and resources
-- ✅ High performance and efficiency
-- ✅ Explicit resource management
-- ✅ Close to hardware, predictable behavior
+- Direct control over memory and resources
+- High performance and efficiency
+- Explicit resource management
+- Close to hardware, predictable behavior
 
 **Challenges:**
-- ⚠️ Manual memory management (risk of leaks)
-- ⚠️ More verbose code
-- ⚠️ No built-in data structures
-- ⚠️ Potential for buffer overflows
+- Manual memory management (risk of leaks)
+- More verbose code
+- No built-in data structures
+- Potential for buffer overflows
 
 ### Functional (OCaml)
 **Strengths:**
-- ✅ Immutable data prevents many bugs
-- ✅ Elegant mathematical expressions
-- ✅ Strong type system with inference
-- ✅ No side effects in pure functions
+- Immutable data prevents many bugs
+- Elegant mathematical expressions
+- Strong type system with inference
+- No side effects in pure functions
 
 **Challenges:**
-- ⚠️ Different mindset required
-- ⚠️ Less familiar syntax
-- ⚠️ Can be less intuitive for beginners
-- ⚠️ Performance overhead in some cases
+- Different mindset required
+- Less familiar syntax
+- Can be less intuitive for beginners
+- Performance overhead in some cases
 
 ### Object-Oriented (Python)
 **Strengths:**
-- ✅ Easy to understand and read
-- ✅ Highly reusable and extensible
-- ✅ Clear encapsulation of data and methods
-- ✅ Rich standard library
+- Easy to understand and read
+- Highly reusable and extensible
+- Clear encapsulation of data and methods
+- Rich standard library
 
 **Challenges:**
-- ⚠️ Slightly more overhead
-- ⚠️ Requires understanding OOP concepts
-- ⚠️ Can lead to over-engineering for simple tasks
+- Slightly more overhead
+- Requires understanding OOP concepts
+- Can lead to over-engineering for simple tasks
 
 ## Implementation Details
 
