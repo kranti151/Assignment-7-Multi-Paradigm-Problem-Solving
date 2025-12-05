@@ -166,7 +166,7 @@ Mode: 1, 2, 3, 4, 5
 ========================
 ```
 
-## 🔍 Paradigm Comparison
+## Paradigm Comparison
 
 | Aspect | C (Procedural) | OCaml (Functional) | Python (OOP) |
 |--------|----------------|-------------------|--------------|
@@ -215,7 +215,7 @@ Mode: 1, 2, 3, 4, 5
 - ⚠️ Requires understanding OOP concepts
 - ⚠️ Can lead to over-engineering for simple tasks
 
-## 📝 Implementation Details
+## Implementation Details
 
 ### Algorithm Complexity
 
@@ -233,6 +233,4 @@ Mode: 1, 2, 3, 4, 5
 - [Python Documentation](https://docs.python.org/3/)
 
 ---
-
-**⭐ If you find this project helpful, please consider giving it a star!**
 
